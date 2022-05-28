@@ -6,3 +6,5 @@ In this project, we will create a Google Clone app. We're going to use React and
 
 Setup:
 run npm i && npm start to start the development server
+
+You could switch from Light Mode to Dark Mode theme.
