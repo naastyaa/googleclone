@@ -7,6 +7,7 @@ const links = [
   { url: '/videos', text: '📺 Videos' },
 ];
 
+
 export const Links = () => (
   <div className="flex sm:justify-around justify-between items-center mt-4">
     {links.map(({ url, text }) => (
